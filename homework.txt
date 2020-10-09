@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 trying to resolve conflicts in github merge
 hope we resolve it soon enough
+=======
+where we go
+>>>>>>> ssi
